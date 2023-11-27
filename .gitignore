@@ -1,1 +1,3 @@
-hipster.txt
+newfile.txt
+*.log
+logs/
