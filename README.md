@@ -11,3 +11,9 @@ Sample website with plenty of files for demos
 We can supply examples and make it interesting
 
 ## Deplyment
+
+Planning to provide guielines about the same to others
+
+## Support
+
+We will be providing 24/7 support
