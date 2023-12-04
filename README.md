@@ -17,3 +17,7 @@ Planning to provide guielines about the same to others
 ## Support
 
 We will be providing 24/7 support
+
+## CopyRight
+
+Copyright is from http://git.training
