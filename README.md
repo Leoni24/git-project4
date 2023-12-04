@@ -8,7 +8,7 @@ Sample website with plenty of files for demos
 
 ## How to contribute
 
-We can supply examples and make it interesting for learning.
+We can supply examples and make it interesting for learning. Kindly fork your changes and proceed.
 
 ## Deplyment
 
