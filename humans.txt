@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <developer> -- <develop> -- <twitter>
+    <Leo> -- <developer> -- <na>
 
 # THANKS
 
-    <Devleoper>
+    <Leo>
 
 # TECHNOLOGY COLOPHON
 
