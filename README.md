@@ -8,7 +8,7 @@ Sample website with plenty of files for demos
 
 ## How to contribute
 
-We can supply examples and make it interesting
+We can supply examples and make it interesting for learning.
 
 ## Deplyment
 
@@ -21,3 +21,4 @@ We will be providing 24/7 support
 ## CopyRight
 
 Copyright is from http://git.training
+
