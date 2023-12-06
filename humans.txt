@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <Leo!! Good Day!>
+    <Leo!! Good Day! Let us learn rebase.>
 
 # TECHNOLOGY COLOPHON
 
